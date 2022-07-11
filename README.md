@@ -5,15 +5,15 @@ React template with Vite, TypeScript, ESLint, TailwindCSS
 ### Quick start
 
 ```bash
-npm install
+pnpm install
 ```
 
 ```bash
-npm run dev
+pnpm dev
 ```
 
 ### Generating components
 
 ```bash
-npx generate-react-cli component ComponentName
+pnpx generate-react-cli component ComponentName
 ```
